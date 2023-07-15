@@ -1,6 +1,6 @@
 {
   "appOpenVisible": true,
-  "backPriority":"facebook456456",
+  "backPriority":"facebook",
   "facebookBannerId1":"575794324762777_575798968095646",
   "facebookBannerId2":"575794324762777_579428884399321",
   "facebookBannerId3":"575794324762777_579429027732640",
@@ -43,7 +43,7 @@
   "isGoogleFailShowFacebook":true,
   "isNativeFacebookGoogleBoth":true,
   "isUpdateApp":false,
-  "priority":"facebook456",
+  "priority":"facebook",
   "showAd":true,
   "toBeClicked":1,
   "totalIntro":5,
