@@ -18,7 +18,7 @@
   "facebookNativeId4":"",
   "facebookNativeId5":"",
   "facebookNativeVisible":false,
-  "googleAppOpenAd":"/21857590943,22958333258/apoorva_gupta_credit_card_apply_validator/open",
+  "googleAppOpenAd":"ca-app-pub-3940256099942544/3419835294",
   "googleBannerId1":"/21857590943,22958333258/apoorva_gupta_credit_card_apply_validator/banner",
   "googleBannerId2":"/21857590943,22958333258/apoorva_gupta_credit_card_apply_validator/banner",
   "googleBannerId3":"/21857590943,22958333258/apoorva_gupta_credit_card_apply_validator/banner",
